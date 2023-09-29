@@ -1,0 +1,5 @@
+#Cấu hình Interface, VLAN, DHCP, Route, Policy, NAT trên Sophos.
+# Default IP: 172.16.16.16/24
+# Default Interface: First Interface(Port1, PortA, MGMT,...)
+# Default password: admin
+# IP Quản trị: https://172.16.16.16:4444
