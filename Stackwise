@@ -1,0 +1,6 @@
+#Stackwise  (SW3750)
++ Kết hợp nhiều switch vật lý thành 1 switch luận lý bằng cáp Stack
++ Mục đích: HA
++ Stack number 1 - 9:
++ Max: 9 switch
++ 1 switch master còn lại là switch thành phần.
